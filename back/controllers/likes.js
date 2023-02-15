@@ -1,4 +1,4 @@
-const Sauce = require("../models/sauce-model");
+/*const Sauce = require("../models/sauce-model");
 
 exports.likeSauce = (req, res, next) => {
   const like = req.body.like;
@@ -64,3 +64,4 @@ exports.likeSauce = (req, res, next) => {
       );
   }
 };
+*/
