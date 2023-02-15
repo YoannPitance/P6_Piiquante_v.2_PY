@@ -22,7 +22,7 @@ exports.likeSauce = (req, res, next) => {
       { _id: sauceId },
       {
         $push: { usersDisliked: userId },
-        $inc: { dislikes: +1 }, // On incrémente de 1
+        $inc: { dislikes: +1 },
       }
     )
       .then(() => {
