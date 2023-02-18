@@ -2,7 +2,7 @@ const passwordValidator = require("password-validator");
 
 const passwordSchema = new passwordValidator()
   .is()
-  .min(6) // Minimum length 8
+  .min(6) // Minimum length 6
   .is()
   .max(100) // Maximum length 100
   .has()
