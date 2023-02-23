@@ -8,7 +8,7 @@ Deux piments rouges dans dans un bol, avec le nom en rouge
 Piiquante : Marque de sauces piquantes
 Si la responsable produit de Piiquante souhaite à terme transformer l'application d'évaluation en une boutique en ligne, elle souhaite que la première version soit une « galerie de sauces » permettant aux utilisateurs de télécharger leurs sauces piquantes préférées et de liker ou disliker les sauces que d'autres partagent. Le front-end de l'application a été développé à l'aide d'Angular et a été précompilé après des tests internes, mais Piiquante a besoin d'un développeur back-end pour construire l'API.
 
-///// INSTALLATION : Pour mettre en place le projet, clonez le repo et ouvrez le dans un éditeur de code. Vous trouverez 2 dossiers, un dossier BACK et un dossier FRONT.
+///// INSTALLATION : Pour mettre en place le projet, clonez le repo et ouvrez le dans un éditeur de code. Vous trouverez 2 dossiers, un dossier BACK et un dossier FRONT. A la racine du dossier BACK créez un dossier "images".
 
 Vous devrez ouvrir un terminal depuis le dossier FRONT ainsi qu'un autre depuis le dossier BACK afin d'y executer la commande " npm install ".
 Une fois npm installé vous pourrez executer la même commande pour chaque dossier à savoir " npm start "
